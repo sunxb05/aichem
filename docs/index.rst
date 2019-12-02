@@ -8,7 +8,6 @@ Welcome to aichem's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
    documentation
 
 Indices and tables
