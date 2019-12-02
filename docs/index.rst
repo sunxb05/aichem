@@ -9,7 +9,7 @@ Welcome to aichem's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   Further Information
+   documentation
 
 Indices and tables
 ==================
