@@ -38,7 +38,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(here, '..')))
 #extensions = ['sphinx.ext.autodoc', 'sphinx.ext.napoleon']
 
 extensions = [
-    'nbsphinx',
+#    'nbsphinx',
     'sphinx.ext.autodoc',
     'sphinx.ext.intersphinx',
     'sphinx.ext.todo',
