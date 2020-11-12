@@ -143,35 +143,6 @@ For installation, please read installation_.
 
 
 
-
-
-
-Installation
-------------
-
-To install aichem, do:
-
-.. code-block:: console
-
-  git clone https://github.com/sunxb05/aichem.git
-  cd aichem
-  pip install .
-
-
-Run tests (including coverage) with:
-
-.. code-block:: console
-
-  python setup.py test
-
-
-Documentation
-*************
-
-.. _README:
-
-Include a link to your project's full documentation here.
-
 Contributing
 ************
 

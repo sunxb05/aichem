@@ -19,7 +19,7 @@ The PyFrag 2019 program was specially designed to facilitate the analysis of rea
 Activation Strain Model
 -----------------------
 
-For more information on the Activation Strain Model (ASM) of chemical reactivity, the user is directed to the references provided below. An easy exercise_ for activation strain analysis of reaction mechanism using ADF is also included.
+For more information on the Activation Strain Model (ASM) of chemical reactivity, the user is directed to the references provided below.
 
 **Literature** ::
 
