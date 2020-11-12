@@ -4,13 +4,18 @@
    contain the root `toctree` directive.
 
 Welcome to aichem's documentation!
-==========================================================
+==================================
 
 .. toctree::
    :maxdepth: 2
-   
+
    includeme
-   documentation
+   1_Installation
+   2_Basic_Usage_Tutorial
+   3_Main_Specifications
+   4_Simple_Pyfrag_Calculation
+   5_Special_Pyfrag_Calculation
+   6_Further_Information
 
 Indices and tables
 ==================
